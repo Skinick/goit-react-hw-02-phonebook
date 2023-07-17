@@ -10,8 +10,7 @@
   width: 450px;
   padding: 10px;
   border-radius: 10px;
-  box-shadow: -1px 1px 34px 4px rgba(171, 178, 185, 1);
-  background-color: #5d81a4;
+  box-shadow: -1px 1px 34px 4px rgb(100, 118, 136);
 }
 
 .titlePhonebook {
