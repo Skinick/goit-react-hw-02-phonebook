@@ -32,4 +32,5 @@ ContactList.propTypes = {
   ).isRequired,
   onDeleteContact: PropTypes.func.isRequired,
 };
+
 export default ContactList;
